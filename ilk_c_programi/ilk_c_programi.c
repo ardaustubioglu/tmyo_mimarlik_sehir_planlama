@@ -1,5 +1,6 @@
-#include <stdio.h>
+/* Burasý yorum satýrýdýr*/
 
+#include <stdio.h>
 main()
 {
 	printf("Merhaba Dunya");
