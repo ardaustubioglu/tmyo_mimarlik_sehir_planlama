@@ -1,4 +1,4 @@
-/* Burası yorum satırıdır*/
+/* BurasÄ± yorum satÄ±rÄ±dÄ±r*/
 
 #include <stdio.h>
 main()
