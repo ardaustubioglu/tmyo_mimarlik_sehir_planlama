@@ -1,0 +1,1 @@
+# tmyo_mimarlik_sehir_planlama
