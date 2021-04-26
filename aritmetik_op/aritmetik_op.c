@@ -7,6 +7,6 @@ main()
 	printf("%d + %d = %d \n",sayi1, sayi2, sayi1+sayi2);
 	printf("%d - %d = %d \n",sayi1, sayi2, sayi1-sayi2);
 	printf("%d * %d = %d \n",sayi1, sayi2, sayi1*sayi2);
-	printf("%d / %d = %d \n",sayi1, sayi2, sayi1/sayi2);
+	printf("%d / %d = %.2f \n",sayi1, sayi2, (float)sayi1/sayi2); //Casting
 	printf("%d mod %d = %d \n",sayi1, sayi2, sayi1%sayi2);
 }
